@@ -92,18 +92,6 @@ and health monitoring, capacity planning for large clusters, performance
 benchmarking, and clear technical communication. This repo demonstrates those
 capabilities in a practical, reviewable format.
 
-## Roles This Supports
-
-AI Infrastructure Architect · HPC Infrastructure Engineer · NVIDIA Solutions
-Architect · GPU Platform Engineer · Data Center AI Factory Architect · Cloud /
-Infrastructure Architect · Technical Program Manager (AI Infrastructure).
-
-## Suggested Resume Bullet
-
-> Built a GitHub portfolio demonstrating CUDA benchmarking, AI/HPC cluster
-> capacity planning, and NVIDIA GPU observability using CUDA C++, Python, Docker,
-> Prometheus, Grafana, and NVIDIA DCGM Exporter.
-
 ## Notes
 
 Benchmark values under `results/` and the GPU power figures in the capacity
