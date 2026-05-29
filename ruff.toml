@@ -1,0 +1,11 @@
+# Ruff configuration for the AI/HPC portfolio.
+line-length = 100
+target-version = "py311"
+
+[lint]
+select = ["E", "F", "W", "I"]
+
+[lint.per-file-ignores]
+# Tests insert the src dir onto sys.path before importing the module under
+# test; the import after that line is intentional, not a style error.
+"**/tests/*.py" = ["E402"]
