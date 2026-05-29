@@ -15,9 +15,9 @@ capacity, power, cooling, and observability.
 
 | Project | Purpose | Skills Demonstrated |
 |---|---|---|
-| [`cuda-benchmark-suite`](projects/cuda-benchmark-suite) | CUDA CPU vs GPU benchmarking | CUDA C++, kernel timing, Linux build, Docker |
-| [`ai-cluster-capacity-planner`](projects/ai-cluster-capacity-planner) | AI/HPC GPU cluster sizing tool | Python, power/cooling/PUE modeling, tested CLI |
-| [`gpu-observability-platform`](projects/gpu-observability-platform) | NVIDIA GPU monitoring stack | DCGM Exporter, Prometheus, Grafana, Docker, observability |
+| [`cuda-benchmark-suite`](cuda-benchmark-suite) | CUDA CPU vs GPU benchmarking | CUDA C++, kernel timing, Linux build, Docker |
+| [`ai-cluster-capacity-planner`](ai-cluster-capacity-planner) | AI/HPC GPU cluster sizing tool | Python, power/cooling/PUE modeling, tested CLI |
+| [`gpu-observability-platform`](gpu-observability-platform) | NVIDIA GPU monitoring stack | DCGM Exporter, Prometheus, Grafana, Docker, observability |
 
 ## How the Pieces Fit Together
 
